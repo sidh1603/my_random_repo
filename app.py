@@ -49,8 +49,8 @@ def math_operation_via_postman():
 
 
 if __name__ == '__main__':
-    host = "127.0.0.1"
-    port = "8000"
+    host = "333.0.0.10"
+    port = "8080"
     app.run(host="127.0.0.1", port=8080,debug=True)
 
 
